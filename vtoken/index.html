@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>v-token</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="shortcut icon" href="image/key2.ico" type="image/x-icon">
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
+	<script src="script.js"></script>
+	<script src="style.js"></script>
+</head>
+<body>
+	<div id="container">
+
+		<div id="question" title="Есть вопрос?">
+			<p>?</p>
+		</div>
+		
+		<div id="header">
+			<p>V-Token</p>
+			<img src="image/key.png" alt="key">
+		</div>
+
+		<div id="walpaper">
+			<p>Отметьте права, которыми будет обладать ваш токен</p>	
+
+			<div id="walpaper-rights">
+				<ul>
+					<li>
+						<input type="checkbox" bit="1">
+						<p>Разрешение на отправку уведомлений</p>
+					</li>
+					<li>
+						<input type="checkbox" bit="2">
+						<p>Доступ к друзьям</p>
+					</li>
+					<li>
+						<input type="checkbox" bit="4">
+						<p>Доступ к фотографиям</p>
+					</li>
+					<li>
+						<input type="checkbox" bit="8">
+						<p>Доступ к аудиозаписям</p>
+					</li>
+					<li>
+						<input type="checkbox" bit="16">
+						<p>Доступ к видеозаписям</p>
+					</li>
+					<li>
+						<input type="checkbox" bit="64">
+						<p>Доступ к историям</p>
+					</li>
+					<li>
+						<input type="checkbox" bit="128">
+						<p>Доступ к wiki-страницам</p>
+					</li>
+					<li>
+						<input type="checkbox" bit="256">
+						<p>Добавление ссылки на приложение в меню слева</p>
+					</li>
+					<li>
+						<input type="checkbox" bit="1024">
+						<p>Доступ к статусу пользователя</p>
+					</li>
+					<li>
+						<input type="checkbox" bit="2048">
+						<p>Доступ к заметкам пользователя</p>
+					</li>
+					<li>
+						<input type="checkbox" bit="4096">
+						<p>Доступ к методам работы с сообщениями</p>
+					</li>
+					<li>
+						<input type="checkbox" bit="8192">
+						<p>Доступ к методам работы со стеной</p>
+					</li>
+					<li>
+						<input type="checkbox" bit="32768">
+						<p>Доступ к расширенным методам работы с рекламным API</p>
+					</li>
+					<li>
+						<input type="checkbox" bit="65536">
+						<p>Доступ к API в любое время</p>
+					</li>
+
+					<li>
+						<input type="checkbox" bit="131072">
+						<p>Доступ к документам</p>
+					</li>
+
+					<li>
+						<input type="checkbox" bit="262144">
+						<p>Доступ к группам пользователя</p>
+					</li>
+
+					<li>
+						<input type="checkbox" bit="524288">
+						<p>Доступ к оповещениям об ответах пользователю</p>
+					</li>
+
+					<li>
+						<input type="checkbox" bit="1048576">
+						<p>Доступ к статистике групп и приложений пользователя</p>
+					</li>
+
+					<li>
+						<input type="checkbox" bit="4194304">
+						<p>Доступ к email пользователя</p>
+					</li>
+
+					<li>
+						<input type="checkbox" bit="134217728">
+						<p>Доступ к товарам</p>
+					</li>
+
+					<li>
+						<input type="checkbox" id="select-all">
+						<p>Отметить всё</p>
+					</li>
+				</ul>
+			</div>
+			
+			
+			<a id="button-link" href="#">
+				<div>
+					Получить token
+				</div>
+			</a>
+
+		</div>
+
+	</div>
+
+	<div id="container-popup">
+		<div class="popup">
+			<div class="theme">
+				<p class="name">Инструкция</p>
+				<p class="text">
+					1. Отметьте права, которыми будет обладать ваш access token.<br>
+					2. Нажмите кнопку "Получить token".<br>
+					3. Войдите в аккаунт во Вконтакте, если вы этого не сделали ранее.<br>
+					4. Нажмите на кнопку "Разрешить". <br>
+					5. Из URL браузера скопируйте часть строки после <i>access_token=</i> и до <i>&expires_in=</i> .<br>
+					Пример токена: <h6>62bf01f78ab65bc1ff432836a3e9078fc5b9c1e377c7a5fdvfb4c30d8232bb64b0d461934d7e34993d61f</h6>
+				</p>
+				<p class="name">Контакты</p>
+				<p class="text">
+					Вк: <a target="_blank" href="https://vk.com/razmolodin13">https://vk.com/razmolodin13</a> <br>
+					email: <a href="mailto:razmolodinivan@mail.ru">razmolodinivan@mail.ru</a>
+				</p>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

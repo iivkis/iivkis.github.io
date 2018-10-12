@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: arial;
+}
+
+html,body{
+	width: 100%;
+	height: 100%;
+}
+
+#container{
+	border:0px solid black;
+	min-height: 100%;
+	width: 600px;
+	margin: 0 auto;
+	position: absolute;
+}
+
+#header{
+	width: 100%;
+	padding: 10px 0px 10px 0px;
+	background-color: #424242;
+	color:white;
+	font-size: 26px;
+	display: flex;
+	justify-content:center;
+	cursor: pointer;
+}
+
+#header p{
+	padding:0px 5px 0px 0px;
+}
+
+#header img{
+	width:23px;
+	height:23px;
+	padding:5px;
+}
+
+#walpaper{
+	box-shadow: -1px 1px 10px 0px grey;
+	margin: 0 auto;
+	margin-top: 7px; 
+	width: 100%;
+	padding:7px 0px 7px 0px;
+	border-radius: 7px;
+	display: block;
+	position:relative;
+	display: block;
+	justify-content: center;
+}
+
+#walpaper p{
+	text-align: center;
+	color:#424242;
+	font-family: Montserrat;
+	font-size: 18px;
+}
+
+#walpaper-rights{
+	border:0px solid red;
+	width: 80%;
+	margin: 0 auto;
+	padding:8px 0px 8px 0px;
+	display: flex;
+	justify-content: center;
+}
+
+#walpaper-rights ul li{
+	display: flex;
+}
+
+#walpaper-rights ul li p{
+	font-size: 15px;
+	margin-top: 4px;
+	padding-left:5px;
+}
+
+#walpaper-rights ul li input{
+	margin-top:7.5px;
+}
+
+#button-link{
+	border:0px solid black;
+	display: block;
+	width: 30%;
+	text-align: center;
+	margin: 0 auto;
+	text-decoration: none;
+
+}
+
+#button-link div{
+	background-color:#424242; 
+	color:white;
+	font-family: Montserrat;
+	padding:10px;
+	border-radius: 7px;
+	font-size: 16px;
+
+}
+
+#question{
+	position: absolute;
+	margin-left:480px;
+	margin-top:550px; 
+	padding:15px 22px 15px 22px;
+	background-color: white;
+	border-radius: 100%;
+	box-shadow: -1px 1px 10px 1px grey;
+	cursor:pointer;
+	z-index:2;
+	transition: 0.5s;
+}
+
+#question p{
+	font-family: Montserrat;
+	font-size: 20px;
+}
+
+#question:hover{
+	transform: scale(1.15);
+	transition: 0.5s;
+}
+
+.popup{
+	z-index: 4;
+	margin-top: 10px;
+	padding:1px 0px 20px 0px; 
+	background-color: white;
+	border-radius: 15px;
+	max-width: 100%;
+	
+}
+
+#container-popup{
+	position:absolute;
+	background-color: rgba(0,0,0,0.5);
+	width:100%;
+	height:100%;
+	z-index: 3;
+	display: none;
+
+}
+
+.theme{
+	width: 90%;
+	border: 0px solid black;
+	margin: 0 auto;
+	padding: 0px 0px 0px 0px;
+}
+
+.theme .name{
+	text-align: center;
+	font-size:20px; 
+	font-family: Montserrat;
+	color:#424242;
+	margin-top: 20px;
+}
+
+.theme .text{
+	text-align: left;
+	font-size:16px; 
+	font-family: Montserrat;
+	color:#424242;
+	line-height: 27px;
+}
+
