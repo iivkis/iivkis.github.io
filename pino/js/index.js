@@ -69,7 +69,7 @@ window.onload = () => {
 
 
 	setInterval(()=>{
-		Step = getRandom(10,40);
+		Step = getRandom(15,50);
 		PosFunc[Math.floor(Math.random()*PosFunc.length)]();
 	},1000/4)
 }

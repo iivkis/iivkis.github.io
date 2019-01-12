@@ -45,8 +45,7 @@ body{
 	bottom:0;
 	left:0;
 	right:0;
-
-	transition: 0.4s;
+	transition: all 0.9s ease, transform 0.4s ease;
 }
 
 #cube:before{
