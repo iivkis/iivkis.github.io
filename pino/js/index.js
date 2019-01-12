@@ -52,6 +52,14 @@ var PosFunc = [
 			Cube.style.top = posNull + Step + 'px';
 			Cube.style.transform = 'rotate(-180deg)';
 		}
+	},
+
+	function Puh(){
+		let tNull = Cube.style.transform;
+		Cube.style.transform += 'scale(1.5)';
+		setTimeout(()=>{
+			Cube.style.transform = tNull;
+		},200)
 	}
 ]
 
@@ -69,9 +77,9 @@ window.onload = () => {
 
 
 	setInterval(()=>{
-		Step = getRandom(15,50);
+		Step = getRandom(30,100);
 		PosFunc[Math.floor(Math.random()*PosFunc.length)]();
-	},1000/4)
+	},1000/3)
 }
 
 
