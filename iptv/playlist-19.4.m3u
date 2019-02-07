@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #EXTM3U
 #EXTINF:0,*Disney
 http://109.171.48.206:81/udp/239.54.5.67:1224
@@ -1529,3 +1530,498 @@ http://158.46.88.95:4022/udp/239.255.42.129:1234
 http://158.46.9.154:7781/udp/239.255.42.129:1234
 #EXTINF:0,Улыбка ребёнка
 http://158.46.65.248:81/udp/239.255.42.130:1234
+=======
+#EXTM3U
+#EXTINF:-1 group-title="Общие" timeshift="1",Первый канал HD
+http://spacetv.in/stream/28C3Z1WB4J/131.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",Россия HD
+http://spacetv.in/stream/28C3Z1WB4J/137.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",НТВ HD
+http://spacetv.in/stream/28C3Z1WB4J/134.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",НТВ Мир
+http://spacetv.in/stream/28C3Z1WB4J/223.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",5 канал (Россия)
+http://spacetv.in/stream/28C3Z1WB4J/103.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",ТНТ HD
+http://spacetv.in/stream/28C3Z1WB4J/135.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",СТС
+http://spacetv.in/stream/28C3Z1WB4J/138.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",СТС Love
+http://spacetv.in/stream/28C3Z1WB4J/183.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",РЕН ТВ
+http://spacetv.in/stream/28C3Z1WB4J/132.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",МирТВ
+http://spacetv.in/stream/28C3Z1WB4J/77.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",Мир HD
+http://spacetv.in/stream/28C3Z1WB4J/66.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",ОТР
+http://spacetv.in/stream/28C3Z1WB4J/61.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",Звезда
+http://spacetv.in/stream/28C3Z1WB4J/140.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",Че
+http://spacetv.in/stream/28C3Z1WB4J/121.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",ТВ3 Россия
+http://spacetv.in/stream/28C3Z1WB4J/136.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",Пятница
+http://spacetv.in/stream/28C3Z1WB4J/181.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",RTVi
+http://spacetv.in/stream/28C3Z1WB4J/91.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",Супер
+http://spacetv.in/stream/28C3Z1WB4J/269.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",Домашний
+http://spacetv.in/stream/28C3Z1WB4J/227.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",Культура
+http://spacetv.in/stream/28C3Z1WB4J/229.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",РТР Планета
+http://spacetv.in/stream/28C3Z1WB4J/224.m3u8
+#EXTINF:-1 group-title="Общие",8 канал
+http://spacetv.in/stream/28C3Z1WB4J/299.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",Время
+http://spacetv.in/stream/28C3Z1WB4J/237.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",Ностальгия
+http://spacetv.in/stream/28C3Z1WB4J/94.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",Ю
+http://spacetv.in/stream/28C3Z1WB4J/230.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",2х2
+http://spacetv.in/stream/28C3Z1WB4J/187.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",Fashion TV
+http://spacetv.in/stream/28C3Z1WB4J/119.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",ТНТ4
+http://spacetv.in/stream/28C3Z1WB4J/106.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",КВН ТВ
+http://spacetv.in/stream/28C3Z1WB4J/222.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",Сарафан
+http://spacetv.in/stream/28C3Z1WB4J/81.m3u8
+#EXTINF:-1 group-title="Общие" timeshift="1",Вопросы и ответы
+http://spacetv.in/stream/28C3Z1WB4J/76.m3u8
+#EXTINF:-1 group-title="Общие",Первый канал (+2)
+http://spacetv.in/stream/28C3Z1WB4J/99.m3u8
+#EXTINF:-1 group-title="Общие",НТВ (+2)
+http://spacetv.in/stream/28C3Z1WB4J/98.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ(+2)
+http://spacetv.in/stream/28C3Z1WB4J/97.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1(+2)
+http://spacetv.in/stream/28C3Z1WB4J/96.m3u8
+#EXTINF:-1 group-title="Общие",Первый канал HD(+4)
+http://spacetv.in/stream/28C3Z1WB4J/233.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",Украина
+http://spacetv.in/stream/28C3Z1WB4J/167.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",ICTV
+http://spacetv.in/stream/28C3Z1WB4J/158.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",Новый канал
+http://spacetv.in/stream/28C3Z1WB4J/157.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",СТБ
+http://spacetv.in/stream/28C3Z1WB4J/156.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",Интер
+http://spacetv.in/stream/28C3Z1WB4J/174.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",1+1
+http://spacetv.in/stream/28C3Z1WB4J/172.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",2+2
+http://spacetv.in/stream/28C3Z1WB4J/173.m3u8
+#EXTINF:-1 group-title="Зарубежные",К1
+http://spacetv.in/stream/28C3Z1WB4J/270.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",Channel 9 (Израиль)
+http://spacetv.in/stream/28C3Z1WB4J/20.m3u8
+#EXTINF:-1 group-title="Зарубежные",Channel 11 (Израиль)
+http://spacetv.in/stream/28C3Z1WB4J/293.m3u8
+#EXTINF:-1 group-title="Зарубежные",Channel 12 (Израиль)
+http://spacetv.in/stream/28C3Z1WB4J/294.m3u8
+#EXTINF:-1 group-title="Зарубежные",Channel 13 (Израиль)
+http://spacetv.in/stream/28C3Z1WB4J/295.m3u8
+#EXTINF:-1 group-title="Зарубежные",Channel 14 (Израиль)
+http://spacetv.in/stream/28C3Z1WB4J/296.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",ILand (test)
+http://spacetv.in/stream/28C3Z1WB4J/279.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",ОНТ Беларусь
+http://spacetv.in/stream/28C3Z1WB4J/21.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",БелРос
+http://spacetv.in/stream/28C3Z1WB4J/63.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",Беларусь 1
+http://spacetv.in/stream/28C3Z1WB4J/22.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",РТР Беларусь
+http://spacetv.in/stream/28C3Z1WB4J/23.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",Беларусь 2
+http://spacetv.in/stream/28C3Z1WB4J/24.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",Беларусь 3
+http://spacetv.in/stream/28C3Z1WB4J/25.m3u8
+#EXTINF:-1 group-title="Зарубежные",Хабар
+http://spacetv.in/stream/28C3Z1WB4J/73.m3u8
+#EXTINF:-1 group-title="Зарубежные",Казахстан
+http://spacetv.in/stream/28C3Z1WB4J/71.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",КТК
+http://spacetv.in/stream/28C3Z1WB4J/26.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",7 канал (Казахстан)
+http://spacetv.in/stream/28C3Z1WB4J/27.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",Астана ТВ
+http://spacetv.in/stream/28C3Z1WB4J/28.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",Armenia TV
+http://spacetv.in/stream/28C3Z1WB4J/175.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",Shant HD
+http://spacetv.in/stream/28C3Z1WB4J/37.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",ATV HD
+http://spacetv.in/stream/28C3Z1WB4J/36.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",Armenia 1 TV
+http://spacetv.in/stream/28C3Z1WB4J/38.m3u8
+#EXTINF:-1 group-title="Зарубежные",Kentron
+http://spacetv.in/stream/28C3Z1WB4J/39.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",LNK
+http://spacetv.in/stream/28C3Z1WB4J/30.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",BTV
+http://spacetv.in/stream/28C3Z1WB4J/35.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",3+
+http://spacetv.in/stream/28C3Z1WB4J/32.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",TV3 LV
+http://spacetv.in/stream/28C3Z1WB4J/29.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",LRT
+http://spacetv.in/stream/28C3Z1WB4J/31.m3u8
+#EXTINF:-1 group-title="Зарубежные" timeshift="1",LTV1
+http://spacetv.in/stream/28C3Z1WB4J/34.m3u8
+#EXTINF:-1 group-title="Зарубежные",Jurnal TV
+http://spacetv.in/stream/28C3Z1WB4J/277.m3u8
+#EXTINF:-1 group-title="Зарубежные",РТР-Молдова
+http://spacetv.in/stream/28C3Z1WB4J/278.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Discovery Россия HD
+http://spacetv.in/stream/28C3Z1WB4J/177.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Discovery Science HD
+http://spacetv.in/stream/28C3Z1WB4J/146.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Discovery Turbo Xtra
+http://spacetv.in/stream/28C3Z1WB4J/145.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",History Россия HD
+http://spacetv.in/stream/28C3Z1WB4J/113.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",History2 HD
+http://spacetv.in/stream/28C3Z1WB4J/65.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Investigation Discovery Россия
+http://spacetv.in/stream/28C3Z1WB4J/205.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",TLC Россия
+http://spacetv.in/stream/28C3Z1WB4J/168.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Планета HD
+http://spacetv.in/stream/28C3Z1WB4J/115.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",ЭВРИКА HD
+http://spacetv.in/stream/28C3Z1WB4J/212.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",National Geographic
+http://spacetv.in/stream/28C3Z1WB4J/90.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",National Geographic HD
+http://spacetv.in/stream/28C3Z1WB4J/116.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Наука 2.0
+http://spacetv.in/stream/28C3Z1WB4J/125.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",24Техно
+http://spacetv.in/stream/28C3Z1WB4J/209.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Оружие
+http://spacetv.in/stream/28C3Z1WB4J/203.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Nat Geo Wild HD
+http://spacetv.in/stream/28C3Z1WB4J/149.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Animal Planet HD
+http://spacetv.in/stream/28C3Z1WB4J/114.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",В мире животных HD
+http://spacetv.in/stream/28C3Z1WB4J/241.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",RTД
+http://spacetv.in/stream/28C3Z1WB4J/197.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Мама
+http://spacetv.in/stream/28C3Z1WB4J/79.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Доктор
+http://spacetv.in/stream/28C3Z1WB4J/80.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Da Vinci»
+http://spacetv.in/stream/28C3Z1WB4J/238.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Viasat Explore
+http://spacetv.in/stream/28C3Z1WB4J/239.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Viasat Nature/History HD
+http://spacetv.in/stream/28C3Z1WB4J/240.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Viasat History
+http://spacetv.in/stream/28C3Z1WB4J/101.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",История
+http://spacetv.in/stream/28C3Z1WB4J/228.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",365 дней ТВ
+http://spacetv.in/stream/28C3Z1WB4J/70.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Моя планета
+http://spacetv.in/stream/28C3Z1WB4J/124.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Russian Travel Guide
+http://spacetv.in/stream/28C3Z1WB4J/164.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Приключения HD
+http://spacetv.in/stream/28C3Z1WB4J/198.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Travel channel HD
+http://spacetv.in/stream/28C3Z1WB4J/231.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Travel+Adventure HD
+http://spacetv.in/stream/28C3Z1WB4J/206.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Fine Living HD
+http://spacetv.in/stream/28C3Z1WB4J/273.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Охота и рыбалка
+http://spacetv.in/stream/28C3Z1WB4J/155.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Охотник и рыболов HD
+http://spacetv.in/stream/28C3Z1WB4J/194.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Диалоги о рыбалке
+http://spacetv.in/stream/28C3Z1WB4J/264.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Дикая Охота HD
+http://spacetv.in/stream/28C3Z1WB4J/274.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Дикая Рыбалка HD
+http://spacetv.in/stream/28C3Z1WB4J/275.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Outdoor channel HD
+http://spacetv.in/stream/28C3Z1WB4J/211.m3u8
+#EXTINF:-1 group-title="Познавательные",Живая природа HD
+http://spacetv.in/stream/28C3Z1WB4J/225.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Живая планета
+http://spacetv.in/stream/28C3Z1WB4J/83.m3u8
+#EXTINF:-1 group-title="Познавательные",Silence TV
+http://spacetv.in/stream/28C3Z1WB4J/297.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Кухня ТВ
+http://spacetv.in/stream/28C3Z1WB4J/179.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Еда HD
+http://spacetv.in/stream/28C3Z1WB4J/216.m3u8
+#EXTINF:-1 group-title="Познавательные",Food Network HD
+http://spacetv.in/stream/28C3Z1WB4J/298.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Авто24
+http://spacetv.in/stream/28C3Z1WB4J/78.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",Авто Плюс
+http://spacetv.in/stream/28C3Z1WB4J/186.m3u8
+#EXTINF:-1 group-title="Познавательные" timeshift="1",HD-Life
+http://spacetv.in/stream/28C3Z1WB4J/161.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Кинопремьера HD
+http://spacetv.in/stream/28C3Z1WB4J/160.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Остросюжетное HD
+http://spacetv.in/stream/28C3Z1WB4J/214.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",КиноПремиум HD
+http://spacetv.in/stream/28C3Z1WB4J/215.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Наш Детектив HD
+http://spacetv.in/stream/28C3Z1WB4J/217.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Наш Кинороман HD
+http://spacetv.in/stream/28C3Z1WB4J/213.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Кинокомедия
+http://spacetv.in/stream/28C3Z1WB4J/265.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Киносемья
+http://spacetv.in/stream/28C3Z1WB4J/170.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Киносвидание
+http://spacetv.in/stream/28C3Z1WB4J/171.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Кинохит
+http://spacetv.in/stream/28C3Z1WB4J/126.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Киномикс
+http://spacetv.in/stream/28C3Z1WB4J/133.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Наше новое кино
+http://spacetv.in/stream/28C3Z1WB4J/128.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Родное кино
+http://spacetv.in/stream/28C3Z1WB4J/242.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Индийское кино
+http://spacetv.in/stream/28C3Z1WB4J/104.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",TV1000 East
+http://spacetv.in/stream/28C3Z1WB4J/110.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",TV1000 Action East
+http://spacetv.in/stream/28C3Z1WB4J/100.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",TV1000 Русское кино
+http://spacetv.in/stream/28C3Z1WB4J/123.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",ViP Premiere HD
+http://spacetv.in/stream/28C3Z1WB4J/202.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",ViP Megahit HD
+http://spacetv.in/stream/28C3Z1WB4J/200.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",ViP Comedy HD
+http://spacetv.in/stream/28C3Z1WB4J/201.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Шокирующее HD
+http://spacetv.in/stream/28C3Z1WB4J/75.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Кинопоказ HD2
+http://spacetv.in/stream/28C3Z1WB4J/74.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Amedia Premium
+http://spacetv.in/stream/28C3Z1WB4J/151.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Amedia 1
+http://spacetv.in/stream/28C3Z1WB4J/117.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Amedia Hit HD
+http://spacetv.in/stream/28C3Z1WB4J/162.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Русский роман
+http://spacetv.in/stream/28C3Z1WB4J/266.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Русский иллюзион
+http://spacetv.in/stream/28C3Z1WB4J/122.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Русский детектив
+http://spacetv.in/stream/28C3Z1WB4J/204.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Русский бестселлер
+http://spacetv.in/stream/28C3Z1WB4J/208.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Русская комедия
+http://spacetv.in/stream/28C3Z1WB4J/68.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Fox Россия
+http://spacetv.in/stream/28C3Z1WB4J/182.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Fox Life Россия
+http://spacetv.in/stream/28C3Z1WB4J/129.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Sony Turbo
+http://spacetv.in/stream/28C3Z1WB4J/263.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Sony Channel
+http://spacetv.in/stream/28C3Z1WB4J/69.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",AXN Sci-Fi Россия
+http://spacetv.in/stream/28C3Z1WB4J/180.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",КиноТВ HD
+http://spacetv.in/stream/28C3Z1WB4J/221.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Кинопоказ
+http://spacetv.in/stream/28C3Z1WB4J/64.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Cinema
+http://spacetv.in/stream/28C3Z1WB4J/62.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",НСТ
+http://spacetv.in/stream/28C3Z1WB4J/207.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Страшное HD
+http://spacetv.in/stream/28C3Z1WB4J/226.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",ТВ XXI
+http://spacetv.in/stream/28C3Z1WB4J/152.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Paramount Comedy
+http://spacetv.in/stream/28C3Z1WB4J/196.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Paramount Сhannel
+http://spacetv.in/stream/28C3Z1WB4J/219.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Мужское кино
+http://spacetv.in/stream/28C3Z1WB4J/107.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Дом Кино
+http://spacetv.in/stream/28C3Z1WB4J/236.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Дом Кино Премиум HD
+http://spacetv.in/stream/28C3Z1WB4J/108.m3u8
+#EXTINF:-1 group-title="Кино" timeshift="1",Hollywood HD
+http://spacetv.in/stream/28C3Z1WB4J/268.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Матч! Игра HD
+http://spacetv.in/stream/28C3Z1WB4J/188.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Eurosport HD
+http://spacetv.in/stream/28C3Z1WB4J/176.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Eurosport 2 HD
+http://spacetv.in/stream/28C3Z1WB4J/192.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Eurosport Gold HD
+http://spacetv.in/stream/28C3Z1WB4J/286.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Матч! Наш спорт
+http://spacetv.in/stream/28C3Z1WB4J/143.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Матч! Арена HD
+http://spacetv.in/stream/28C3Z1WB4J/163.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Матч ТВ HD
+http://spacetv.in/stream/28C3Z1WB4J/169.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Матч! Футбол 1 HD
+http://spacetv.in/stream/28C3Z1WB4J/130.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Матч! Футбол 2 HD
+http://spacetv.in/stream/28C3Z1WB4J/142.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Матч! Футбол 3 HD
+http://spacetv.in/stream/28C3Z1WB4J/185.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Матч Премьер HD
+http://spacetv.in/stream/28C3Z1WB4J/193.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Футбол 1 HD Украина
+http://spacetv.in/stream/28C3Z1WB4J/159.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Футбол 2 HD Украина
+http://spacetv.in/stream/28C3Z1WB4J/191.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Беларусь 5
+http://spacetv.in/stream/28C3Z1WB4J/33.m3u8
+#EXTINF:-1 group-title="Спорт",Kazsport
+http://spacetv.in/stream/28C3Z1WB4J/72.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Viasat Sport HD Россия
+http://spacetv.in/stream/28C3Z1WB4J/102.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Extreme Sports
+http://spacetv.in/stream/28C3Z1WB4J/148.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Морской
+http://spacetv.in/stream/28C3Z1WB4J/141.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Setanta Eurasia HD
+http://spacetv.in/stream/28C3Z1WB4J/234.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Setanta Eurasia+ HD
+http://spacetv.in/stream/28C3Z1WB4J/235.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Матч! Боец
+http://spacetv.in/stream/28C3Z1WB4J/112.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Бокс ТВ
+http://spacetv.in/stream/28C3Z1WB4J/154.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",КХЛ ТВ
+http://spacetv.in/stream/28C3Z1WB4J/166.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",КХЛ HD
+http://spacetv.in/stream/28C3Z1WB4J/178.m3u8
+#EXTINF:-1 group-title="Спорт" timeshift="1",Русский экстрим HD
+http://spacetv.in/stream/28C3Z1WB4J/285.m3u8
+#EXTINF:-1 group-title="Детские" timeshift="1",Детский
+http://spacetv.in/stream/28C3Z1WB4J/195.m3u8
+#EXTINF:-1 group-title="Детские" timeshift="1",Nickelodeon HD
+http://spacetv.in/stream/28C3Z1WB4J/127.m3u8
+#EXTINF:-1 group-title="Детские" timeshift="1",Тлум HD
+http://spacetv.in/stream/28C3Z1WB4J/232.m3u8
+#EXTINF:-1 group-title="Детские" timeshift="1",Канал Disney
+http://spacetv.in/stream/28C3Z1WB4J/118.m3u8
+#EXTINF:-1 group-title="Детские" timeshift="1",Карусель
+http://spacetv.in/stream/28C3Z1WB4J/120.m3u8
+#EXTINF:-1 group-title="Детские" timeshift="1",TiJi Россия
+http://spacetv.in/stream/28C3Z1WB4J/111.m3u8
+#EXTINF:-1 group-title="Детские" timeshift="1",Мульт
+http://spacetv.in/stream/28C3Z1WB4J/199.m3u8
+#EXTINF:-1 group-title="Детские",Мульт и музыка
+http://spacetv.in/stream/28C3Z1WB4J/82.m3u8
+#EXTINF:-1 group-title="Детские" timeshift="1",JimJam
+http://spacetv.in/stream/28C3Z1WB4J/150.m3u8
+#EXTINF:-1 group-title="Детские" timeshift="1",Cartoon network
+http://spacetv.in/stream/28C3Z1WB4J/144.m3u8
+#EXTINF:-1 group-title="Детские" timeshift="1",Nick Jr Polska
+http://spacetv.in/stream/28C3Z1WB4J/220.m3u8
+#EXTINF:-1 group-title="Детские" timeshift="1",В гостях у сказки
+http://spacetv.in/stream/28C3Z1WB4J/93.m3u8
+#EXTINF:-1 group-title="Детские" timeshift="1",Канал О!
+http://spacetv.in/stream/28C3Z1WB4J/60.m3u8
+#EXTINF:-1 group-title="Музыкальные",1HD Music Television
+http://spacetv.in/stream/28C3Z1WB4J/267.m3u8
+#EXTINF:-1 group-title="Музыкальные",М1
+http://spacetv.in/stream/28C3Z1WB4J/218.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge HD
+http://spacetv.in/stream/28C3Z1WB4J/92.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Classic
+http://spacetv.in/stream/28C3Z1WB4J/272.m3u8
+#EXTINF:-1 group-title="Музыкальные",Europa Plus TV
+http://spacetv.in/stream/28C3Z1WB4J/184.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV Dance
+http://spacetv.in/stream/28C3Z1WB4J/147.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV Россия
+http://spacetv.in/stream/28C3Z1WB4J/89.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV Rocks
+http://spacetv.in/stream/28C3Z1WB4J/88.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка Первого
+http://spacetv.in/stream/28C3Z1WB4J/153.m3u8
+#EXTINF:-1 group-title="Музыкальные",VH1 Europe
+http://spacetv.in/stream/28C3Z1WB4J/165.m3u8
+#EXTINF:-1 group-title="Музыкальные",VH1 Classic
+http://spacetv.in/stream/28C3Z1WB4J/87.m3u8
+#EXTINF:-1 group-title="Музыкальные",Муз-ТВ
+http://spacetv.in/stream/28C3Z1WB4J/86.m3u8
+#EXTINF:-1 group-title="Музыкальные",RU.TV
+http://spacetv.in/stream/28C3Z1WB4J/109.m3u8
+#EXTINF:-1 group-title="Музыкальные",Mezzo Live HD
+http://spacetv.in/stream/28C3Z1WB4J/276.m3u8
+#EXTINF:-1 group-title="Музыкальные",Шансон ТВ
+http://spacetv.in/stream/28C3Z1WB4J/95.m3u8
+#EXTINF:-1 group-title="Новостные" timeshift="1",РБК ТВ
+http://spacetv.in/stream/28C3Z1WB4J/105.m3u8
+#EXTINF:-1 group-title="Новостные" timeshift="1",Россия 24
+http://spacetv.in/stream/28C3Z1WB4J/139.m3u8
+#EXTINF:-1 group-title="Новостные" timeshift="1",EuroNews
+http://spacetv.in/stream/28C3Z1WB4J/189.m3u8
+#EXTINF:-1 group-title="Новостные" timeshift="1",BBC World News Europe
+http://spacetv.in/stream/28C3Z1WB4J/85.m3u8
+#EXTINF:-1 group-title="Новостные" timeshift="1",CNN
+http://spacetv.in/stream/28C3Z1WB4J/84.m3u8
+#EXTINF:-1 group-title="Новостные" timeshift="1",Москва-24
+http://spacetv.in/stream/28C3Z1WB4J/67.m3u8
+#EXTINF:-1 group-title="Новостные" timeshift="1",112 Украина HD
+http://spacetv.in/stream/28C3Z1WB4J/271.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",Русская ночь
+http://spacetv.in/stream/28C3Z1WB4J/54.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",НЮ АРТ
+http://spacetv.in/stream/28C3Z1WB4J/55.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",Playboy TV
+http://spacetv.in/stream/28C3Z1WB4J/56.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",Candy HD
+http://spacetv.in/stream/28C3Z1WB4J/57.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",Dorcel HD
+http://spacetv.in/stream/28C3Z1WB4J/50.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",Redlight HD
+http://spacetv.in/stream/28C3Z1WB4J/51.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",Hustler HD Europe
+http://spacetv.in/stream/28C3Z1WB4J/52.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",Brazzers TV
+http://spacetv.in/stream/28C3Z1WB4J/53.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",Penthouse Black HD
+http://spacetv.in/stream/28C3Z1WB4J/280.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",Penthouse HD2
+http://spacetv.in/stream/28C3Z1WB4J/281.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",Private TV HD
+http://spacetv.in/stream/28C3Z1WB4J/282.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",Pentouse HD
+http://spacetv.in/stream/28C3Z1WB4J/283.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",Vivid Red HD
+http://spacetv.in/stream/28C3Z1WB4J/284.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",PINKoTV
+http://spacetv.in/stream/28C3Z1WB4J/287.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",SEXTOSENSO
+http://spacetv.in/stream/28C3Z1WB4J/288.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",Barely Legal TV
+http://spacetv.in/stream/28C3Z1WB4J/289.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",XMUVI
+http://spacetv.in/stream/28C3Z1WB4J/290.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",PriveTV
+http://spacetv.in/stream/28C3Z1WB4J/291.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234",PassionXXX
+http://spacetv.in/stream/28C3Z1WB4J/292.m3u8
+>>>>>>> 5d6441ac522c26551a62af8c464370d4fec0fa28
