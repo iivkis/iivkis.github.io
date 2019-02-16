@@ -2,7 +2,7 @@
   "name": "matha",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://iquzy.github.io/vikifo/dist/",
   "dependencies": {
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
