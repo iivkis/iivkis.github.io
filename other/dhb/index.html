@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <title>Dimka Happy Birthday</title>
+</head>
+<style>
+
+    * {
+        padding: 0;
+        margin: 0;
+    }
+
+    body {
+        background: #2d2d2d;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    #text {
+        font-size: 50px;
+        display: none;
+        color: #eee;
+        text-align: center;
+    }
+</style>
+<body>
+    <pre id="text">
+Димасик ┌(ಠ_ಠ)┘
+Братюля! (─‿‿─)
+С Днюхой Тебя! +1 ☜(⌒▽⌒)☞ +1
+Желаю тебе счастья! <(￣︶￣)>
+Крепкого здоровья! (＾▽＾)
+Гору бабок!(っ˘ω˘ς)
+И Успеха ;)
+<= 25.03.2020 =>
+Хы ＼(＾▽＾)／
+    </pre>
+</body>
+<script>
+    var pre = document.getElementById('text'),
+        text = pre.innerText,
+        textSplit = text.split('\n');
+
+    pre.innerText = 'Загрузка...'
+    pre.style.display = 'block';
+
+    idx = 0
+
+    setInterval(function(){
+        
+        pre.innerText = textSplit[idx]
+
+        if (idx === textSplit.length - 1) 
+            idx = 0
+        else
+            idx++;
+    }, 3500)
+
+</script>
+</html>
