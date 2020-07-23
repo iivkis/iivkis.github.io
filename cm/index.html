@@ -33,9 +33,9 @@
 
 <script>
     var version = '1.0.0';
-    
+
     window.onload = function() {
-        console.log(version)
+        console.log('Cinemoon version: ', version)
 
         let params = {},
             query = window.location.href.split('?')[1];
@@ -48,13 +48,19 @@
             })
         } 
 
-        console.log(params)
+        if (params.f) {
+            let iframe = document.getElementById('video_iframe');
+            iframe.src = params.f;
+        } else {
+            alert('video not found')
+        }
     }
 </script>
 
 <body>
     <iframe allowfullscreen id="video_iframe"
-        src="https://vid1595505177.vb17110frankfoley.pw/movie/688eb38cccf724c2835b91a15f7308ed/iframe">
+        src="">
+        <!-- src="https://vid1595505177.vb17110frankfoley.pw/movie/688eb38cccf724c2835b91a15f7308ed/iframe"> -->
     </iframe>
 </body>
 
