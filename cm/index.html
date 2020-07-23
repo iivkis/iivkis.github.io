@@ -26,42 +26,47 @@
         width: 100vw;
         height: 100vh;
     }
-    .controlbutton, rect.rect {
-        fill: #00ea57e3!important;
+
+    .controlbutton,
+    rect.rect {
+        fill: #00ea57e3 !important;
     }
 </style>
 
 <script>
     var version = '1.0.1';
 
-    window.onload = function() {
+    window.onload = function () {
         console.log('Cinemoon version: ', version)
+
+        let iframe = document.getElementById('video_iframe');
 
         let params = {},
             query = window.location.href.split('?')[1];
 
         if (query) {
             let queryParams = query.split('&');
-            queryParams.forEach(function(p) {
+            queryParams.forEach(function (p) {
                 ps = p.split('=')
                 params[ps[0]] = ps[1]
             })
-        } 
+        }
 
         if (params.f) {
-            let iframe = document.getElementById('video_iframe');
+
             iframe.src = params.f;
         } else {
             alert('video not found')
         }
+
+        //iframe color
+        iframe.getElementsByClassName('controlbutton')
+        
     }
 </script>
 
 <body>
-    <iframe allowfullscreen id="video_iframe"
-        src="">
-        <!-- src="https://vid1595505177.vb17110frankfoley.pw/movie/688eb38cccf724c2835b91a15f7308ed/iframe"> -->
+    <iframe allowfullscreen id="video_iframe" src="">
     </iframe>
 </body>
-
 </html>
