@@ -92,12 +92,10 @@
     var PRIZE_NAME = 'стикерпак';
     var LUCKY_BOX_ID = Math.floor(Math.random()*4)+1;
     var NOW_DATE = new Date().getDate();
+    var localStorage.getItem()
 
     window.onload = () => {
-        if (NOW_DATE != localStorage.getItem("last_game_date"))
-            next();
-        else
-            alert("Ваши попытки кончились:(\nПопробуйте завтра =)")
+        next();
     }
 
     function next() {
