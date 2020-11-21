@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Подарочек</title>
+</head>
+
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        font-size: 16px;
+        font-family: serif;
+    }
+
+    body {
+        background-color: #FBAB7E;
+        background-image: linear-gradient(62deg, #FBAB7E 0%, #f5c358 100%);
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: 100vh;
+    }
+
+    .box {
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 10px;
+        transition: 1s;
+        animation: boxframes 7s ease-in-out infinite;
+    }
+
+    .box img {
+        
+    }
+
+    .row {
+        display: flex;
+        flex-direction: row;
+    }
+
+
+    @keyframes boxframes {
+        0% {
+            transform: rotate(0deg);
+        }
+
+        5% {
+            transform: rotate(7deg);
+        }
+
+        15% {
+            transform: rotate(-5deg);
+        }
+
+        30% {
+            transform: rotate(0deg);
+        }
+    }
+
+</style>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="box" box_id="1">
+                <img src="box.png" alt="коробка">
+            </div>
+            <div class="box" box_id="2">
+                <img src="box.png" alt="коробка">
+            </div>
+        </div>
+        <div class="row">
+            <div class="box" box_id="3">
+                <img src="box.png" alt="коробка">
+            </div>
+            <div class="box" box_id="4">
+                <img src="box.png" alt="коробка">
+            </div>
+        </div>
+    </div>    
+</body>
+
+<script>
+    var PRIZE_NAME = 'стикерпак';
+    var LUCKY_BOX_ID = Math.floor(Math.random()*4)+1;
+    var NOW_DATE = new Date().getDate();
+
+    window.onload = () => {
+        if (NOW_DATE != localStorage.getItem("last_game_date"))
+            next();
+        else
+            alert("Ваши попытки кончились:(\nПопробуйте завтра =)")
+    }
+
+    function next() {
+        let boxs = document.querySelectorAll('.box');
+
+        for(let i = 0; i < boxs.length; i++) {
+            boxs[i].onclick = e => {
+                getPrize(e.currentTarget.getAttribute('box_id'))
+            }
+        }
+    }
+
+    function getPrize(box_id) {
+        if (box_id == LUCKY_BOX_ID) {
+            alert(`Ура! Вы выиграли ${PRIZE_NAME}! Сделай скрин и покажи его Ваньке =)`);
+        } else {
+            alert(`Ваш приз был в коробке номер ${LUCKY_BOX_ID} :(`)
+        }
+        localStorage.setItem("last_game_date", NOW_DATE);
+        window.location.reload();
+    }
+</script>
+
+</html>
