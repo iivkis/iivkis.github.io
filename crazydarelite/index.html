@@ -45,14 +45,12 @@
 		padding: 1em;
 		font-size: 1em;
 	}
-
-
 </style>
 
 <body>
 	<div class="container">
-		<h2 id="task">Тут твой вопрос</h2>
-		<button id="genTask" onclick="newTask()">Новое задание</button>
+		<h2 id="task" style="text-align: center;">Осилишь эту игру?</h2>
+		<button onclick="newTask()">Новое задание</button>
 	</div>
 	</div>
 </body>
@@ -251,9 +249,9 @@
 		"Съешь корм для домашних животных",
 		"Станцуй как ковбой.",
 		"Изобрази любого из присутствующих так, чтобы все смогли угадать кто это за 60 секунд."
-	],
-		taskH1 = document.querySelector("#task");
-
+	]
+	
+	var	taskH1 = document.querySelector("#task");
 	function newTask() {
 		taskH1.innerHTML = tasks[Math.floor(Math.random() * tasks.length)];
 	}
