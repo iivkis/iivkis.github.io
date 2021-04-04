@@ -34,14 +34,17 @@
 	}
 
 	#task {
-		padding-top: 30px;
-		padding-bottom: 30px;
+		width: 90%;
+		padding: 30px 5%;
+		text-align: center;
+		border: 2px solid darkcyan;
 	}
 
 	button {
-		background: transparent;
-		border: solid 3px darkcyan;
-		color: darkcyan;
+		margin-top: 50px;
+		background: darkcyan;
+		border: none;
+		color: #fff;
 		padding: 1em;
 		font-size: 1em;
 	}
@@ -49,8 +52,8 @@
 
 <body>
 	<div class="container">
-		<h2 id="task" style="text-align: center;">Осилишь эту игру?</h2>
-		<button onclick="newTask()">Новое задание</button>
+		<h2 id="task">Осилишь эту игру?</h2>
+		<button onclick="newTask()">Сгенерировать задание</button>
 	</div>
 	</div>
 </body>
